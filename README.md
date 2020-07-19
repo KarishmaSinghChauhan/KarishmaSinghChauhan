@@ -18,4 +18,4 @@ I'm Karishma Singh Chauhan, a CSE sophomore at Indira Gandhi Delhi Technical Uni
 ### Connect with Me 🤝🏻
 <a href="https://www.linkedin.com/in/karishma-singh-chauhan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   
-![counter](https://engmv0agk1ibgmg.m.pipedream.net)
+<!--[![counter](https://engmv0agk1ibgmg.m.pipedream.net)](https://engmv0agk1ibgmg.m.pipedream.net)-->
