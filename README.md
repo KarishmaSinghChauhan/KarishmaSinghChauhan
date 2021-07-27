@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi Developer! 👋🏻
-I'm Karishma Singh Chauhan, a CSE undegraduate at Indira Gandhi Delhi Technical University for Women. I have worked at Google as a SWE Intern in 2021 and a STEP Intern in 2020. I've also been a Flipkart GirlsWannaCode program scholar (2021) and a mentee of the Intuit Augment Mentorship program (2020).
+I'm Karishma Singh Chauhan, a CSE undegraduate from Indira Gandhi Delhi Technical University for Women. I have worked at Google as a SWE Intern in 2021 and a STEP Intern in 2020. I've also been a Flipkart GirlsWannaCode program scholar (2021) and a mentee of the Intuit Augment Mentorship program (2020).
 
 ### Connect with Me 🤝🏻
 <a href="https://www.linkedin.com/in/karishma-singh-chauhan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
